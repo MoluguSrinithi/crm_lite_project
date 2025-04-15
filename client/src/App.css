@@ -1,0 +1,38 @@
+
+body {
+  font-family: 'Arial', sans-serif;
+}
+
+.sidebar {
+  background-color: #f8f9fa;
+  padding: 20px;
+  border-right: 1px solid #ddd;
+}
+
+.sidebar .nav-link {
+  padding: 10px;
+  border-radius: 5px;
+  color: #333;
+}
+
+.sidebar .nav-link:hover {
+  background-color: #007bff;
+  color: white;
+}
+
+.card {
+  border: none;
+  border-radius: 10px;
+}
+
+.card-body {
+  padding: 20px;
+}
+
+.card-title {
+  font-weight: bold;
+}
+
+.card-text {
+  margin-bottom: 15px;
+}
